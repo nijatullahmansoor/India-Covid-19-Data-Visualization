@@ -5,8 +5,7 @@
 2. data link for covid 19 
 	https://api.covid19india.org/
 
-3. 	Help
-
+3. 	Statistics and Research Coronavirus Pandemic (COVID-19)
 	https://ourworldindata.org/coronavirus
 
 4. Kaggle competation
